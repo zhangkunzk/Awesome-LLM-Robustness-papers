@@ -29,17 +29,17 @@ Markdown format:
   - [Long Context](#long-context)
   - [Attack and Defense](#attack-defense)
   - [Noise Decoding](#noise-decoding)
-  - [Other](#other)
+  - [Causal Inspired Methods](#causal-inspired-methods)
 - [OOD Robustness](#ood-robustness)
   - [Domain Transfer and Generalization](#domain-transfer-and-generalization)
   - [OOD Detection](#ood-detection)
   - [Tuning Method](#tuning-method)
   - [Hallucination](#hallucination)
-  - [Other](#other)
+  - [Causal Enhanced Solution](#causal-enhanced-solution)
 - [Robustness Evaluation](#robustness-evaluation)
   - [Dataset Construction](#dataset-construction)
   - [Robustness Evaluation](#robustness-evaluation)
-  - [Other](#other-evaluation)
+  - [Causal Related Evaluation](#causal-related-evaluation)
 
 ## Summarization
 - Bias and fairness in large language models: A survey.
@@ -200,7 +200,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf)
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
 
-### Other
+### Causal Inspired Methods
 -   Benchmarking large language models in retrieval-augmented generation.
     [[pdf]](https://arxiv.org/pdf)
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
@@ -226,7 +226,7 @@ Markdown format:
     [[pdf]](https://arxiv.org/pdf)
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
 
-### Other
+### Causal Enhanced Solution
 -   Benchmarking large language models in retrieval-augmented generation.
     [[pdf]](https://arxiv.org/pdf)
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
@@ -244,7 +244,7 @@ Markdown format:
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
 
 
-### Other
+### Causal Related Evaluation
 -   Benchmarking large language models in retrieval-augmented generation.
     [[pdf]](https://arxiv.org/pdf)
     -   Chen Jiawei, Lin Hongyu, Han Xianpei, and Sun Le. *Arxiv 2024*
