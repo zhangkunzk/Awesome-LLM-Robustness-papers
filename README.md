@@ -3499,6 +3499,10 @@ Markdown format:
 
 ### Dataset Construction
 <!-- dataset -->
+ - MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs.
+    [pdf](https://arxiv.org/abs/2511.14159) [code](https://github.com/chenyil6/MVI-Bench)
+    - Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, and Lu Cheng. *ICML 2026*
+
  - Evaluating commonsense in pre-trained language models.
     [pdf](https://arxiv.org/pdf/1911.11931)
     - Xuhui Zhou, Yue Zhang, Leyang Cui, and Dandan Huang. *Proceedings of the AAAI conference on artificial intelligence 2020*
