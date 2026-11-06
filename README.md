@@ -3659,6 +3659,11 @@ Markdown format:
 
 
 ### Robustness Evaluation
+
+ - Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers.
+    [[pdf]](https://arxiv.org/abs/2611.05798)
+    - Sungguk Cha, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, and Sangyeob Lee. *arXiv preprint arXiv:2611.05798 2026*
+
  - Promptbench: Towards evaluating the robustness of large language models on adversarial prompts.
     [pdf](https://arxiv.org/pdf/2306.04528)
     - Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Yue Zhang, Neil Zhenqiang Gong, and others. *arXiv preprint arXiv:2306.04528 2023*
